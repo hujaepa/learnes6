@@ -1,4 +1,4 @@
-function power2(n){
+function power2(n) {
     return n*n;
 }
 

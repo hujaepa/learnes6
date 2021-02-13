@@ -1,4 +1,4 @@
-function displayName(){
+function displayName() {
     console.log("Jaepa");
 }
 
